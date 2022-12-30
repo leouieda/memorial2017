@@ -1,10 +1,11 @@
 # Memorial Acadêmico
 
-Meu memorial escrito inicialmente para um concurso do IAG/USP em 2017.
-
-Uma versão em PDF está disponível em https://github.com/leouieda/memorial/releases
+> Meu memorial escrito para um concurso do IAG/USP em 2017.
 
 Escrito usando Latex e Bibtex. Para compilar, use o `Makefile`.
+
+[📝 Download a PDF version](https://github.com/leouieda/memorial2017/releases/download/usp2017/memorial-2017.pdf)
+
 
 ## License
 
